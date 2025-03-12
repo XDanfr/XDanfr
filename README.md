@@ -1,4 +1,4 @@
-## Hi there 👋
+## i dont want to make a readme 👅👅
 
 <!--
 **Brubhubedits/BrubHubedits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
