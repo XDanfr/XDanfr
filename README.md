@@ -1,6 +1,6 @@
 ## hey! i'm xdan :)
 
-I'm a computer science, physics, and music tech A Level student who mostly writes code for fun, college projects, or to make useful stuff for myself and others.  
+I'm a computer science, physics, and music tech A Level student who mostly writes code for fun, college projects, or to make useful stuff for myself and other people :D
 
 💻 **what i work with:**  
 - Linux (currently on cachyos with hyprland on both my pc and laptop)  
