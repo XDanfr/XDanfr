@@ -12,7 +12,7 @@ I'm a computer science, physics, and music tech A Level student who mostly write
 - Producing music (a lot of experiments lol)  
 - Playing FPS games & custom map creation (especially in splitgate 2)  
 
-## 🖥️ specs
+#### 🖥️ specs
 
 | Part | 🖥️ **PC** | 💻 **Laptop** |
 |------|-----------|--------------|
