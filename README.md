@@ -3,7 +3,7 @@
 I'm a computer science, physics, and music tech A Level student who mostly writes code for fun, college projects, or to make useful stuff for myself and other people :D
 
 💻 **what i work with:**  
-- Linux (currently on cachyos with hyprland on both my pc and laptop)  
+- Linux (CachyOS with Hyprland on both my pc and laptop)  
 - Web development (HTML, CSS, JS, the usual slop)  
 - Game modding & custom tools on occasion  
 - A bit of C#, .NET, Python, and bash scripting  
