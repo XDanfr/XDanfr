@@ -17,7 +17,7 @@ I'm a computer science, physics, and music tech A Level student who mostly write
 | Part | 🖥️ **PC** | 💻 **Laptop** |
 |------|-----------|--------------|
 | 💼 Model | Custom Build | HP Victus 15 |
-| 🖧 Motherboard | ASUS ROG STRIX B550-F GAMING WI-FI | N/A |
+| 🖧 Motherboard | ASUS ROG STRIX B550-F GAMING WI-FI | Integrated |
 | 🖥️ CPU | AMD Ryzen 5 5600X | Intel Core i5-12450H |
 | ❄️ CPU Cooler | Corsair H150X RGB Elite | no clue bro |
 | 📦 RAM | 16GB DDR4 | 16GB DDR4 |
