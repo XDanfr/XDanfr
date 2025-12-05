@@ -3,14 +3,14 @@
 I'm a computer science, physics, and music tech A Level student who mostly writes code for fun, college projects, or to make useful stuff for myself and other people :D
 
 💻 **what i work with:**  
-- Linux (CachyOS with Hyprland on both my pc and laptop)  
+- Linux (CachyOS with KDE on both my pc and laptop)  
 - Web development (HTML, CSS, JS, the usual slop)  
 - Game modding & custom tools on occasion  
-- A bit of C#, .NET, Python, and bash scripting  
+- A bit of C# (learning in college), .NET, Python, and a whole lotta bash scripting  
 
 🎵 **other things i’m into:**  
 - Producing music (a lot of experiments lol)  
-- Playing FPS games & custom map creation (especially in splitgate 2)  
+- Playing FPS games & custom map creation (especially in splitgate: arena reloaded)  
 
 #### 🖥️ specs
 
@@ -24,11 +24,11 @@ I'm a computer science, physics, and music tech A Level student who mostly write
 | 🎮 GPU | XFX AMD Radeon RX 5700 XT 8GB THICC III Ultra | NVIDIA RTX 3050 4GB |
 | 🖴 Case | Corsair 4000X RGB | The laptop chassis? lol |
 | 🐧 OS | CachyOS | CachyOS |
-| 🪟 WM | Hyprland | Hyprland |
-| 🎨 Dots | [JaKooLit](https://github.com/JaKooLit/Arch-Hyprland) | [end-4](https://github.com/end-4/dots-hyprland) |
+| 🪟 DE | KDE Plasma | KDE Plasma |
 
 📫 **find me online:**  
-[website](https://xdan.uk) · [spotify](https://xdan.uk/spotify) · [soundcloud](https://xdan.uk/sc)  
+~~[website](https://xdan.uk) · [spotify](https://xdan.uk/spotify) · [soundcloud](https://xdan.uk/sc)~~
+all links are currently down, i'll get them up with my new domain soon.
 
 ---
 
