@@ -27,7 +27,7 @@ I'm a computer science, physics, and music tech A Level student who mostly write
 | 🪟 DE | KDE Plasma | KDE Plasma |
 
 📫 **find me online:**  
-~~[website](https://xdan.uk)~~ · [spotify](https://open.spotify.com/artist/0YCoeqoiDdWGEanD2b3pp9) · [soundcloud](https://on.soundcloud.com/FeJC9fKYhOH4YZbp9K)
+~~[website](https://xdan.me)~~ · [spotify](https://open.spotify.com/artist/0YCoeqoiDdWGEanD2b3pp9) · [soundcloud](https://on.soundcloud.com/FeJC9fKYhOH4YZbp9K)
 some links are currently down, i'll get them up with my new domain soon.
 
 ---
