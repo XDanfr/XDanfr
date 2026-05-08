@@ -24,7 +24,7 @@ I'm a computer science, physics, and music tech A Level student who mostly write
 | 🎮 GPU | XFX AMD Radeon RX 5700 XT 8GB THICC III Ultra | NVIDIA RTX 3050 4GB |
 | 🖴 Case | Corsair 4000X RGB | The laptop chassis? lol |
 | 🐧 OS | CachyOS | CachyOS |
-| 🪟 DE | KDE Plasma | KDE Plasma |
+| 🪟 DE | Hyprland | Hyprland |
 
 📫 **find me online:**  
 [website](https://xdan.me) · [spotify](https://open.spotify.com/artist/0YCoeqoiDdWGEanD2b3pp9) · [soundcloud](https://on.soundcloud.com/FeJC9fKYhOH4YZbp9K)
