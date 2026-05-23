@@ -1,12 +1,12 @@
 ## hey! i'm xdan :)
 
-I'm a computer science, physics, and music tech A Level student who mostly writes code for fun, college projects, or to make useful stuff for myself and other people :D
+I'm the lead developer of RE//BREAK, and a computer science, physics, and music tech A Level student who mostly writes code for fun, college projects, or to make useful stuff for myself and other people :D
 
 💻 **what i work with:**  
-- Linux (CachyOS with KDE on both my pc and laptop)  
-- Web development (HTML, CSS, JS, the usual slop)  
+- Linux (CachyOS on both my pc and laptop)  
+- Web development (HTML, CSS, JS, the usual)  
 - Game modding & custom tools on occasion  
-- A bit of C# (learning in college), .NET, Python, and a whole lotta bash scripting  
+- Unreal (C++), a bit of C# (learning in college), .NET, Python, and a whole lotta bash scripting  
 
 🎵 **other things i’m into:**  
 - Producing music (a lot of experiments lol)  
@@ -17,14 +17,14 @@ I'm a computer science, physics, and music tech A Level student who mostly write
 | Part | 🖥️ **PC** | 💻 **Laptop** |
 |------|-----------|--------------|
 | 💼 Model | Custom Build | HP Victus 15 |
-| 🖧 Motherboard | ASUS ROG STRIX B550-F GAMING WI-FI | Integrated |
+| 🖧 Motherboard | ASUS ROG STRIX B550-F GAMING WI-FI |  |
 | 🖥️ CPU | AMD Ryzen 5 5600X | Intel Core i5-12450H |
-| ❄️ CPU Cooler | Corsair H150X RGB Elite | no clue bro |
+| ❄️ CPU Cooler | Corsair H150X RGB Elite |  |
 | 📦 RAM | 16GB DDR4 | 16GB DDR4 |
 | 🎮 GPU | XFX AMD Radeon RX 5700 XT 8GB THICC III Ultra | NVIDIA RTX 3050 4GB |
-| 🖴 Case | Corsair 4000X RGB | The laptop chassis? lol |
+| 🖴 Case | Corsair 4000X RGB |  |
 | 🐧 OS | CachyOS | CachyOS |
-| 🪟 DE | Hyprland | Hyprland |
+| 🪟 WM | Hyprland | Hyprland |
 
 📫 **find me online:**  
 [website](https://xdan.me) · [spotify](https://open.spotify.com/artist/0YCoeqoiDdWGEanD2b3pp9) · [soundcloud](https://on.soundcloud.com/FeJC9fKYhOH4YZbp9K)
