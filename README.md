@@ -14,17 +14,17 @@ I'm the lead developer of RE//BREAK, and a computer science, physics, and music 
 
 #### 🖥️ specs
 
-| Part | 🖥️ **PC** | 💻 **Laptop** |
-|------|-----------|--------------|
-| 💼 Model | Custom Build | HP Victus 15 |
-| 🖧 Motherboard | ASUS ROG STRIX B550-F GAMING WI-FI |  |
-| 🖥️ CPU | AMD Ryzen 5 5600X | Intel Core i5-12450H |
-| ❄️ CPU Cooler | Corsair H150X RGB Elite |  |
-| 📦 RAM | 16GB DDR4 | 16GB DDR4 |
-| 🎮 GPU | XFX AMD Radeon RX 5700 XT 8GB THICC III Ultra | NVIDIA RTX 3050 4GB |
-| 🖴 Case | Corsair 4000X RGB |  |
-| 🐧 OS | CachyOS | CachyOS |
-| 🪟 WM | Hyprland | Hyprland |
+| Part | 🖥️ **PC** | 💻 **Laptop** | 🍎 **MacBook** |
+|------|-----------|---------------|----------------|
+| 💼 Model | Custom Build | HP Victus 15 | MacBook Pro 2019
+| 🖧 Motherboard | ASUS ROG STRIX B550-F GAMING WI-FI |  |  |
+| 🖥️ CPU | AMD Ryzen 5 5600X | Intel Core i5-12450H | Intel Core i9 |
+| ❄️ CPU Cooler | Corsair H150X RGB Elite |  |  |
+| 📦 RAM | 16GB DDR4 | 16GB DDR4 | 16GB Unified |
+| 🎮 GPU | XFX AMD Radeon RX 5700 XT 8GB THICC III Ultra | NVIDIA RTX 3050 4GB | AMD Radeon 5500M |
+| 🖴 Case | Corsair 4000X RGB |  |  |
+| 🐧 OS | CachyOS/Windows 11 | CachyOS/Windows 11 | MacOS |
+| 🪟 WM/DE | Hyprland | KDE Plasma |  |
 
 📫 **find me online:**  
 [website](https://xdan.me) · [spotify](https://open.spotify.com/artist/0YCoeqoiDdWGEanD2b3pp9) · [soundcloud](https://on.soundcloud.com/FeJC9fKYhOH4YZbp9K)
