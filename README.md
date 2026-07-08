@@ -23,7 +23,7 @@ I'm the lead developer of RE//BREAK, and a computer science, physics, and music 
 | 📦 RAM | 16GB DDR4 | 16GB DDR4 | 16GB Unified |
 | 🎮 GPU | XFX AMD Radeon RX 5700 XT 8GB THICC III Ultra | NVIDIA RTX 3050 4GB | AMD Radeon 5500M |
 | 🖴 Case | Corsair 4000X RGB |  |  |
-| 🐧 OS | CachyOS/Windows 11 | CachyOS/Windows 11 | MacOS |
+| 🐧 OS | CachyOS/Windows 11 | CachyOS/Windows 11 | MacOS 26 Tahoe |
 | 🪟 WM/DE | Hyprland | KDE Plasma |  |
 
 📫 **find me online:**  
