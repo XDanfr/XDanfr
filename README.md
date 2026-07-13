@@ -6,7 +6,8 @@ I'm the lead developer of RE//BREAK, and a computer science, physics, and music 
 - Linux (CachyOS on both my pc and laptop)  
 - Web development (HTML, CSS, JS, the usual)  
 - Game modding & custom tools on occasion  
-- Unreal (C++), a bit of C# (learning in college), .NET, Python, and a whole lotta bash scripting  
+- Unreal (C++), a bit of C# (learning in college), .NET, Python, and a whole lotta bash scripting
+- Kotlin for [Aperture](https://github.com/XDanfr/Aperture)
 
 🎵 **other things i’m into:**  
 - Producing music (a lot of experiments lol)  
