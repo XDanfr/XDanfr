@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./xdan.png" alt="XDan" width="100%">
+  <img src="./banner.png" alt="XDan" width="100%">
 </p>
 
 ## hey! i'm xdan :)
