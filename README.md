@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./xdan.png" alt="XDan" width="100%">
+</p>
+
 ## hey! i'm xdan :)
 
 I'm the lead developer of RE//BREAK, and a computer science, physics, and music tech A Level student who mostly writes code for fun, college projects, or to make useful stuff for myself and other people :D
