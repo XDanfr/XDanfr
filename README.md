@@ -2,9 +2,9 @@
   <img src="./github-banner.png" alt="XDan" width="100%">
 </p>
 
-## hey! i'm xdan :)
+## Hey! I'm XDan :)
 
-I'm the lead developer of RE//BREAK, and a computer science, physics, and music tech A Level student who mostly writes code for fun, college projects, or to make useful stuff for myself and other people :D
+I'm the lead developer of RE//BREAK, and a Computer Science, Physics, and Music Production A Level student who mostly writes code for myself, college projects, or to make useful stuff for other people! :D
 
 💻 **what i work with:**  
 - Linux (CachyOS on both my pc and laptop)  
@@ -15,7 +15,7 @@ I'm the lead developer of RE//BREAK, and a computer science, physics, and music 
 
 🎵 **other things i’m into:**  
 - Producing music (a lot of experiments lol)  
-- Playing FPS games & custom map creation (especially in splitgate: arena reloaded)  
+- Playing FPS games 
 
 #### 🖥️ specs
 
