@@ -16,10 +16,6 @@ I'm the lead developer of RE//BREAK, and a Computer Science, Physics, and Music 
 - whole lotta bash scripting
 - Kotlin for [Aperture](https://github.com/XDanfr/Aperture)
 
-🎵 **other things i’m into:**  
-- Producing music (a lot of experiments lol)  
-- Playing FPS games 
-
 #### 🖥️ specs
 
 | Part | 🖥️ **PC** | 💻 **Laptop** | 🍎 **MacBook** |
