@@ -35,7 +35,7 @@ I'm the lead developer of RE//BREAK, and a Computer Science, Physics, and Music 
 
 ---
 
-My active development wouldn’t have... well... active development, without sponsors. Special thanks to kurohigex for sponsoring :)
+My active development wouldn’t have... well... active development, without sponsors. Special thanks to @kurohigex for sponsoring :)
 
 
 <!--
