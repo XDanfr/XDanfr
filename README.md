@@ -51,7 +51,10 @@ I'm the lead developer of [RE//BREAK](https://xdan.me/rebreak), and a Computer S
 
 ---
 
-My active development wouldn’t have... well... active development, without sponsors. Special thanks to [@kurohigex](https://github.com/kurohigex) for sponsoring :)
+My active development wouldn’t have... well... active development, without sponsors. Special thanks to my sponsors:
+[@kurohigex](https://github.com/kurohigex)
+[@fenstic](https://github.com/fenstic)
+
 <!--
 **XDanfr/XDanfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
