@@ -18,6 +18,8 @@ I'm the lead developer of RE//BREAK, and a Computer Science, Physics, and Music 
 - whole lotta bash scripting
 - Kotlin for [Aperture](https://github.com/XDanfr/Aperture)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=XDanfr&rank_icon=percentile&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=XDanfr&rank_icon=percentile&include_all_commits=true&theme=vue-dark)
+
 #### 🖥️ specs
 
 | Part | 🖥️ **PC** | 💻 **Laptop** | 🍎 **MacBook** |
@@ -40,8 +42,6 @@ I'm the lead developer of RE//BREAK, and a Computer Science, Physics, and Music 
 ---
 
 My active development wouldn’t have... well... active development, without sponsors. Special thanks to [@kurohigex](https://github.com/kurohigex) for sponsoring :)
-
-
 <!--
 **XDanfr/XDanfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
