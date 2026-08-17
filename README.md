@@ -51,8 +51,10 @@ I'm the lead developer of [RE//BREAK](https://xdan.me/rebreak), and a Computer S
 
 ---
 
-My active development wouldn’t have... well... active development, without sponsors. Special thanks to my sponsors:
+My active development wouldn’t have... well... active development, without sponsors. Special thanks to them:
+
 [@kurohigex](https://github.com/kurohigex)
+
 [@fenstic](https://github.com/fenstic)
 
 <!--
