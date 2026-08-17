@@ -7,9 +7,11 @@
 I'm the lead developer of RE//BREAK, and a Computer Science, Physics, and Music Production A Level student who mostly writes code for myself, college projects, or to make useful stuff for other people! :D
 
 💻 **what i work with:**  
-- Linux (CachyOS on both my pc and laptop)  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Linux](https://img.shields.io/badge/CachyOS-Arch-009688?style=for-the-badge&logo=archlinux&logoColor=white)
 - Web development
-- Unreal (C++)
 - C# (college)
 - .NET
 - Python
@@ -31,7 +33,9 @@ I'm the lead developer of RE//BREAK, and a Computer Science, Physics, and Music 
 | 🪟 WM/DE | Hyprland | KDE Plasma |  |
 
 📫 **find me online:**  
-[website](https://xdan.me) · [spotify](https://open.spotify.com/artist/0YCoeqoiDdWGEanD2b3pp9) · [soundcloud](https://on.soundcloud.com/FeJC9fKYhOH4YZbp9K)
+[![Website](https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=firefox&logoColor=white)](https://xdan.me)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/0YCoeqoiDdWGEanD2b3pp9)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://on.soundcloud.com/FeJC9fKYhOH4YZbp9K)
 
 ---
 
