@@ -20,7 +20,6 @@ I'm the lead developer of [RE//BREAK](https://xdan.me/rebreak), and a Computer S
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-- Kotlin for [Aperture](https://github.com/XDanfr/Aperture)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=XDanfr&rank_icon=percentile&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=XDanfr&rank_icon=percentile&include_all_commits=true&theme=vue-dark)
 
