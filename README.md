@@ -1,6 +1,11 @@
-<p align="center">
-  <img src="./github-banner.png" alt="XDan" width="100%">
-</p>
+<div align="center">
+<img src="./github-banner.png" alt="XDan" width="100%">
+  
+💚 Sponsors
+
+![sponsors badge](https://readme-contribs.as93.net/sponsors/XDanfr)
+
+---
 
 ## Hey! I'm XDan :)
 
@@ -30,6 +35,8 @@ I'm the lead developer of [RE//BREAK](https://xdan.me/rebreak), and a Computer S
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=XDanfr&rank_icon=percentile&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=XDanfr&rank_icon=percentile&include_all_commits=true&theme=vue-dark)
 
+---
+
 #### 🖥️ specs
 
 | Part | 🖥️ **PC** | 💻 **Laptop** | 🍎 **MacBook** |
@@ -44,16 +51,20 @@ I'm the lead developer of [RE//BREAK](https://xdan.me/rebreak), and a Computer S
 | 🐧 OS | CachyOS/Windows 11 | CachyOS/Windows 11 | MacOS 26 Tahoe |
 | 🪟 WM/DE | Hyprland | KDE Plasma |  |
 
+---
+
 📫 **find me online:**  
-[![Website](https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=firefox&logoColor=white)](https://xdan.me)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/0YCoeqoiDdWGEanD2b3pp9)
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://on.soundcloud.com/FeJC9fKYhOH4YZbp9K)
+  
+  [![Website](https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=firefox&logoColor=white)](https://xdan.me)
+  [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/0YCoeqoiDdWGEanD2b3pp9)
+  [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://on.soundcloud.com/FeJC9fKYhOH4YZbp9K)
 
 ---
 
-My active development wouldn’t have... well... active development, without sponsors. Special thanks to them:
+🫶 **Followers**
 
-![sponsors badge](https://readme-contribs.as93.net/sponsors/XDanfr)
+![followers badge](https://readme-contribs.as93.net/followers/XDanfr)
+</div>
 <!--
 **XDanfr/XDanfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
