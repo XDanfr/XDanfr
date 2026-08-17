@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./github-banner.png" alt="XDan" width="100%">
   
-💚 Sponsors
+💚 **Sponsors**
 
 ![sponsors badge](https://readme-contribs.as93.net/sponsors/XDanfr)
 
