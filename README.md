@@ -9,7 +9,7 @@
 
 ## Hey! I'm XDan :)
 
-I'm the lead developer of [RE//BREAK](https://xdan.me/rebreak), and a Computer Science, Physics, and Music Production A Level student who mostly writes code for myself, college projects, or to make useful stuff for other people! :D
+I'm the lead developer of [RE//BREAK](https://xdan.cc/rebreak), and a Computer Science, Physics, and Music Production A Level student who mostly writes code for myself, college projects, or to make useful stuff for other people! :D
 
 ### 💻 what i work with: 
 
@@ -59,7 +59,7 @@ I'm the lead developer of [RE//BREAK](https://xdan.me/rebreak), and a Computer S
 
 📫 **find me online:**  
   
-  [![Website](https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=firefox&logoColor=white)](https://xdan.me)
+  [![Website](https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=firefox&logoColor=white)](https://xdan.cc)
   [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/0YCoeqoiDdWGEanD2b3pp9)
   [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://on.soundcloud.com/FeJC9fKYhOH4YZbp9K)
 
