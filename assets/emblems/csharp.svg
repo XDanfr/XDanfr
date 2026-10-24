@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="218" height="218" viewBox="0 0 218 218" role="img" aria-label="C#"><title>C#</title><desc>C# · Material 3 Expressive brand shape</desc><metadata>m3e shapes, source revision bf5fa929a3e1912ad670b491edfd1645b3907d16
+MIT License
+
+Copyright (c) 2025–2026 matraic
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the &quot;Software&quot;), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Icon csharp: MIT (Devicon); https://github.com/devicons/devicon</metadata><path d="M230.389 50.473C293.109 23.2328 356.767 86.8908 329.527 149.611L325.023 159.981C316.707 179.13 316.707 200.87 325.023 220.019L329.527 230.389C356.767 293.109 293.109 356.767 230.389 329.527L220.019 325.023C200.87 316.707 179.13 316.707 159.981 325.023L149.611 329.527C86.8908 356.767 23.2328 293.109 50.473 230.389L54.9768 220.019C63.2934 200.87 63.2934 179.13 54.9768 159.981L50.473 149.611C23.2328 86.8908 86.8908 23.2328 149.611 50.473L159.981 54.9768C179.13 63.2934 200.87 63.2934 220.019 54.9768L230.389 50.473Z" transform="scale(0.5736842105263158)" fill="#ecdfe9" stroke="#7e747d" stroke-width="0"/><circle cx="109" cy="92" r="35" fill="#884099"/><g fill="#ffffff" aria-hidden="true" transform="translate(79 62) scale(0.46875)"><path d="M117.5 33.5l.3-.2c-.6-1.1-1.5-2.1-2.4-2.6L67.1 2.9c-.8-.5-1.9-.7-3.1-.7-1.2 0-2.3.3-3.1.7l-48 27.9c-1.7 1-2.9 3.5-2.9 5.4v55.7c0 1.1.2 2.3.9 3.4l-.2.1c.5.8 1.2 1.5 1.9 1.9l48.2 27.9c.8.5 1.9.7 3.1.7 1.2 0 2.3-.3 3.1-.7l48-27.9c1.7-1 2.9-3.5 2.9-5.4V36.1c.1-.8 0-1.7-.4-2.6zm-53.5 70c-21.8 0-39.5-17.7-39.5-39.5S42.2 24.5 64 24.5c14.7 0 27.5 8.1 34.3 20l-13 7.5C81.1 44.5 73.1 39.5 64 39.5c-13.5 0-24.5 11-24.5 24.5s11 24.5 24.5 24.5c9.1 0 17.1-5 21.3-12.4l12.9 7.6c-6.8 11.8-19.6 19.8-34.2 19.8zM115 62h-3.2l-.9 4h4.1v5h-5l-1.2 6h-4.9l1.2-6h-3.8l-1.2 6h-4.8l1.2-6H94v-5h3.5l.9-4H94v-5h5.3l1.2-6h4.9l-1.2 6h3.8l1.2-6h4.8l-1.2 6h2.2v5zm-12.7 4h3.8l.9-4h-3.8z"/></g><g fill="#4d444c" aria-hidden="true"><path d="M87 685Q87 331 261 152.5Q435 -26 723 -26Q993 -26 1145 112Q1297 250 1304 472L1304 521L987 521L987 475Q982 352 918 281Q854 210 727 210Q583 210 501.5 315.5Q420 421 420 632L420 824Q420 1047 502.5 1145.5Q585 1244 723 1244Q856 1244 921.5 1177.5Q987 1111 987 988L987 933L1304 933L1304 976Q1304 1207 1148.5 1344.5Q993 1482 723 1482Q440 1482 263.5 1305.5Q87 1129 87 771Z" transform="translate(90.4222585816354 150.8) scale(0.0126953125 -0.0126953125)"/><path d="M193 -20L444 -19L865 1484L614 1484ZM697 -20L948 -20L1369 1484L1118 1484ZM72 358L1431 358L1431 586L72 586ZM133 878L1491 878L1491 1106L133 1106Z" transform="translate(107.61564408751802 150.8) scale(0.0126953125 -0.0126953125)"/></g></svg>
