@@ -11,7 +11,7 @@
 
 I'm the lead developer of [RE//BREAK](https://xdan.cc/rebreak), and a Computer Science, Physics, and Music Production A Level student who mostly writes code for myself, college projects, or to make useful stuff for other people! :D
 
-## 💻 What I work with
+#### 💻 What I work with
 
 <!-- Android and cross-platform -->
 <p align="center">
