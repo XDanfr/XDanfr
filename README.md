@@ -87,7 +87,7 @@ I'm the lead developer of [RE//BREAK](https://xdan.cc/rebreak), and a Computer S
 
 🫶 **Followers**
 
-![followers badge](https://readme-contribs.as93.net/followers/XDanfr)
+[![GitHub followers](https://emblem.xdan.cc/people/followers/XDanfr.svg?seed=%23386a20&theme=light&columns=6&limit=40&shapes=6-sided-cookie,puffy,4-leaf-clover)](https://github.com/XDanfr?tab=followers)
 </div>
 <!--
 **XDanfr/XDanfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
