@@ -3,7 +3,7 @@
   
 💚 **Sponsors**
 
-![sponsors badge](https://readme-contribs.as93.net/sponsors/XDanfr)
+[![Current and past sponsors](https://emblem.xdan.cc/sponsors/XDanfr.svg?palette=green&theme=auto&status=all&columns=4&shapes=6-sided-cookie,puffy,4-leaf-clover)](https://github.com/sponsors/XDanfr)
 
 ---
 
@@ -15,38 +15,38 @@ I'm the lead developer of [RE//BREAK](https://xdan.cc/rebreak), and a Computer S
 
 <!-- Android and cross-platform -->
 <p align="center">
-  <img src="./assets/emblems/kotlin.svg" alt="Kotlin" height="96" />
-  <img src="./assets/emblems/flutter.svg" alt="Flutter" height="96" />
+  <img src="https://emblem.xdan.cc/badge.svg?message=Kotlin&amp;style=cookie&amp;shape=6-sided-cookie&amp;seed=%237F52FF&amp;theme=light&amp;font=roboto-flex&amp;weight=bold&amp;logo=kotlin&amp;iconSize=60&amp;valueSize=26&amp;outline=false" alt="Kotlin" height="96" />
+  <img src="https://emblem.xdan.cc/badge.svg?message=Flutter&amp;style=cookie&amp;shape=4-leaf-clover&amp;seed=%2302569B&amp;theme=light&amp;font=roboto-flex&amp;weight=bold&amp;logo=flutter&amp;iconSize=60&amp;valueSize=26&amp;outline=false" alt="Flutter" height="96" />
 </p>
 
 <!-- Native and game development -->
 <p align="center">
-  <img src="./assets/emblems/cplusplus.svg" alt="C++" height="96" />
-  <img src="./assets/emblems/unrealengine.svg" alt="Unreal Engine" height="96" />
+  <img src="https://emblem.xdan.cc/badge.svg?message=C%2B%2B&amp;style=cookie&amp;shape=hexagon&amp;seed=%2300599C&amp;theme=light&amp;font=roboto-flex&amp;weight=bold&amp;logo=cplusplus&amp;iconSize=60&amp;valueSize=26&amp;outline=false" alt="C++" height="96" />
+  <img src="https://emblem.xdan.cc/badge.svg?message=Unreal+Engine&amp;style=cookie&amp;shape=7-sided-cookie&amp;seed=%230E1128&amp;theme=light&amp;font=roboto-flex&amp;weight=bold&amp;logo=unrealengine&amp;iconSize=60&amp;valueSize=26&amp;outline=false" alt="Unreal Engine" height="96" />
 </p>
 
 <!-- Web development -->
 <p align="center">
-  <img src="./assets/emblems/vite.svg" alt="Vite" height="96" />
-  <img src="./assets/emblems/html5.svg" alt="HTML5" height="96" />
-  <img src="./assets/emblems/css3.svg" alt="CSS3" height="96" />
-  <img src="./assets/emblems/javascript.svg" alt="JavaScript" height="96" />
-  <img src="./assets/emblems/npm.svg" alt="npm" height="96" />
-  <img src="./assets/emblems/php.svg" alt="PHP" height="96" />
+  <img src="https://emblem.xdan.cc/badge.svg?message=Vite&amp;style=cookie&amp;shape=soft-burst&amp;seed=%23646CFF&amp;theme=light&amp;font=roboto-flex&amp;weight=bold&amp;logo=vite&amp;iconSize=60&amp;valueSize=26&amp;outline=false" alt="Vite" height="96" />
+  <img src="https://emblem.xdan.cc/badge.svg?message=HTML5&amp;style=cookie&amp;shape=4-sided-cookie&amp;seed=%23E34F26&amp;theme=light&amp;font=roboto-flex&amp;weight=bold&amp;logo=html5&amp;iconSize=60&amp;valueSize=26&amp;outline=false" alt="HTML5" height="96" />
+  <img src="https://emblem.xdan.cc/badge.svg?message=CSS3&amp;style=cookie&amp;shape=4-leaf-clover&amp;seed=%231572B6&amp;theme=light&amp;font=roboto-flex&amp;weight=bold&amp;logo=css3&amp;iconSize=60&amp;valueSize=26&amp;outline=false" alt="CSS3" height="96" />
+  <img src="https://emblem.xdan.cc/badge.svg?message=JavaScript&amp;style=cookie&amp;shape=6-sided-cookie&amp;seed=%23F7DF1E&amp;theme=light&amp;font=roboto-flex&amp;weight=bold&amp;logo=javascript&amp;iconSize=60&amp;valueSize=26&amp;outline=false" alt="JavaScript" height="96" />
+  <img src="https://emblem.xdan.cc/badge.svg?message=npm&amp;style=cookie&amp;shape=8-leaf-clover&amp;seed=%23CB3837&amp;theme=light&amp;font=roboto-flex&amp;weight=bold&amp;logo=npm&amp;iconSize=60&amp;valueSize=26&amp;outline=false" alt="npm" height="96" />
+  <img src="https://emblem.xdan.cc/badge.svg?message=PHP&amp;style=cookie&amp;shape=oval&amp;seed=%23777BB4&amp;theme=light&amp;font=roboto-flex&amp;weight=bold&amp;logo=php&amp;iconSize=60&amp;valueSize=26&amp;outline=false" alt="PHP" height="96" />
 </p>
 
 <!-- C# and .NET -->
 <p align="center">
-  <img src="./assets/emblems/csharp.svg" alt="C#" height="96" />
-  <img src="./assets/emblems/dotnet.svg" alt=".NET" height="96" />
+  <img src="https://emblem.xdan.cc/badge.svg?message=C%23&amp;style=cookie&amp;shape=4-sided-cookie&amp;seed=%2368217A&amp;theme=light&amp;font=roboto-flex&amp;weight=bold&amp;logo=csharp&amp;iconSize=60&amp;valueSize=26&amp;outline=false" alt="C#" height="96" />
+  <img src="https://emblem.xdan.cc/badge.svg?message=.NET&amp;style=cookie&amp;shape=puffy-diamond&amp;seed=%23512BD4&amp;theme=light&amp;font=roboto-flex&amp;weight=bold&amp;logo=dotnet&amp;iconSize=60&amp;valueSize=26&amp;outline=false" alt=".NET" height="96" />
 </p>
 
 <!-- Systems and scripting -->
 <p align="center">
-  <img src="./assets/emblems/cachyos.svg" alt="CachyOS" height="96" />
-  <img src="./assets/emblems/bash.svg" alt="Bash" height="96" />
-  <img src="./assets/emblems/python.svg" alt="Python" height="96" />
-  <img src="./assets/emblems/swift.svg" alt="Swift" height="96" />
+  <img src="https://emblem.xdan.cc/badge.svg?message=CachyOS&amp;style=cookie&amp;shape=hexagon&amp;seed=%231DC7B5&amp;theme=light&amp;font=roboto-flex&amp;weight=bold&amp;logo=cachyos&amp;iconSize=60&amp;valueSize=26&amp;outline=false" alt="CachyOS" height="96" />
+  <img src="https://emblem.xdan.cc/badge.svg?message=Bash&amp;style=cookie&amp;shape=pixel-circle&amp;seed=%234EAA25&amp;theme=light&amp;font=roboto-flex&amp;weight=bold&amp;logo=bash&amp;iconSize=60&amp;valueSize=26&amp;outline=false" alt="Bash" height="96" />
+  <img src="https://emblem.xdan.cc/badge.svg?message=Python&amp;style=cookie&amp;shape=puffy&amp;seed=%233776AB&amp;theme=light&amp;font=roboto-flex&amp;weight=bold&amp;logo=python&amp;iconSize=60&amp;valueSize=26&amp;outline=false" alt="Python" height="96" />
+  <img src="https://emblem.xdan.cc/badge.svg?message=Swift&amp;style=cookie&amp;shape=very-sunny&amp;seed=%23F05138&amp;theme=light&amp;font=roboto-flex&amp;weight=bold&amp;logo=swift&amp;iconSize=60&amp;valueSize=26&amp;outline=false" alt="Swift" height="96" />
 </p>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=XDanfr&rank_icon=percentile&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=XDanfr&rank_icon=percentile&include_all_commits=true&theme=vue-dark)
@@ -73,13 +73,13 @@ I'm the lead developer of [RE//BREAK](https://xdan.cc/rebreak), and a Computer S
   
 <p align="center">
   <a href="https://xdan.cc">
-    <img src="./assets/emblems/website.svg" alt="Website" height="90" />
+    <img src="https://emblem.xdan.cc/badge.svg?message=Website&amp;style=cookie&amp;shape=6-sided-cookie&amp;seed=%2349B885&amp;theme=light&amp;font=roboto-flex&amp;weight=bold&amp;logo=website&amp;iconSize=60&amp;valueSize=26&amp;outline=false" alt="Website" height="90" />
   </a>
   <a href="https://open.spotify.com/artist/0YCoeqoiDdWGEanD2b3pp9">
-    <img src="./assets/emblems/spotify.svg" alt="Spotify" height="90" />
+    <img src="https://emblem.xdan.cc/badge.svg?message=Spotify&amp;style=cookie&amp;shape=8-leaf-clover&amp;seed=%231ED760&amp;theme=light&amp;font=roboto-flex&amp;weight=bold&amp;logo=spotify&amp;iconSize=60&amp;valueSize=26&amp;outline=false" alt="Spotify" height="90" />
   </a>
   <a href="https://on.soundcloud.com/FeJC9fKYhOH4YZbp9K">
-    <img src="./assets/emblems/soundcloud.svg" alt="SoundCloud" height="90" />
+    <img src="https://emblem.xdan.cc/badge.svg?message=SoundCloud&amp;style=cookie&amp;shape=soft-burst&amp;seed=%23FF5500&amp;theme=light&amp;font=roboto-flex&amp;weight=bold&amp;logo=soundcloud&amp;iconSize=60&amp;valueSize=26&amp;outline=false" alt="SoundCloud" height="90" />
   </a>
 </p>
 
