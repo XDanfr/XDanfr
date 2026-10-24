@@ -47,7 +47,7 @@ for (const [slug, label, shape, seed] of icons) {
     '--font', 'roboto-flex',
     '--weight', 'bold',
     '--icon', slug,
-    '--icon-size', '68',
+    '--icon-size', '60',
     '--value-size', '26',
     '--outline', 'off',
     '--out', out,
